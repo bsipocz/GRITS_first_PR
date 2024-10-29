@@ -26,7 +26,7 @@ For further read about open source contributing workflows see any of the followi
 * [crash course in contributing to open source](https://sites.google.com/view/nyc-2020-scikit-sprint) material presented at a scikit-learn sprint,
 * [contributing to NumPy](https://numpy.org/contribute/) with [guides for code contributions](https://numpy.org/devdocs/dev/index.html#development-process-summary),
 * [contributing to Pandas](https://pandas.pydata.org/docs/dev/development/contributing.html),
-* [Developer and Contributor Guides at Scientific Python](https://learn.scientific-python.org/)).
+* [Developer and Contributor Guides at Scientific Python](https://learn.scientific-python.org/).
 
 #### Writing good bug reports, reproducible examples, etc.
 
