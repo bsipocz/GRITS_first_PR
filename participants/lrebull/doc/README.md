@@ -1,13 +1,19 @@
-Ok so I guess you are reading this cuz you wanna use my code. There are some
-functions that do stuf and thats:
+There are three functions in this distribution. 
+
+Factorial calculates the factorial of the given number:
 
     >>> from simple_functions import factorial
     >>> factorial(10)
     9
 
-and this other part does something.  I forget why that I did it:
+Fibonnacci calculates the Fibonnacci sequence up to the given number:
 
-    >>> fibonnaccci(100)
+    >>> fibonnacci(100)
     [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 
-If you can't use it, its kind of your problem, not mine!
+Is_prime tells you whether or not the given number is prime:
+
+    >>> is_prime(2)
+    false
+    
+    
