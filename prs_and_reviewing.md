@@ -311,7 +311,14 @@ using the ``--force`` flag:
 
 If there are conflicts, you can take a look at [this GitHub guide](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) on how to resolve them.
 
-Tip: I find the following tutorial extremely useful to practice various git scenarios:
+
+### Further resources
+
+#### Git glossary
+https://docs.github.com/en/get-started/learning-about-github/github-glossary
+
+#### Git branching exercises
+
 https://learngitbranching.js.org/
 
 
