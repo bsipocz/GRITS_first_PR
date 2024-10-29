@@ -18,3 +18,6 @@ For further read about some open-source contributing workflows see any of the fo
 * [crash course in contributing to open source](https://sites.google.com/view/nyc-2020-scikit-sprint) material presented at a scikit-learn sprint,
 * [contributing to NumPy](https://numpy.org/contribute/) with [guides for code contributions](https://numpy.org/devdocs/dev/index.html#development-process-summary),
 * [Developer and Contributor Guides as Scientific Python](https://learn.scientific-python.org/))
+
+For further further information, please read on.
+
