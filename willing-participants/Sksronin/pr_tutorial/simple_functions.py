@@ -12,6 +12,7 @@ def factorial(value):
         return value * factorial(value - 1)
 
 def is_prime(value):
+    '''Efficient implementation of the is_prime function'''
     # special cases
     if value < 2:       return False
     if value == 2:      return True
