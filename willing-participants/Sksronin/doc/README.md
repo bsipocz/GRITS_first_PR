@@ -3,7 +3,7 @@ functions that do stuff and that's:
 
     >>> from simple_functions import factorial
     >>> factorial(10)
-    9
+    3628800
 
 and this other part does something:
 
