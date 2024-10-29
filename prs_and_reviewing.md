@@ -125,13 +125,13 @@ changes to the code, but who knows... maybe the reviewers will spend so long rev
 that you want to do another set of unrelated changes in the meantime. Thus it's always best to make
 changes in a dedicated branch. So before you make any changes, make a new branch with:
 
-    git branch <name-of-branch>
+    git branch <name-of-branch> [<start-point>]
 
 You can then switch to this branch with:
 
     git checkout <name-of-branch>
 
-Note that you can also write ``git checkout -b <name-of-branch>`` as a short-hand for the above two
+Note that you can also write ``git checkout -b <name-of-branch> [<start-point>]`` as a short-hand for the above two
 commands. Branch names should be kept simple and reasonably short, and can't include e.g. spaces.
 
 ### 1f: Make some changes
