@@ -1,4 +1,4 @@
-Ok, so I guess you are reading this because you want use my code. There are some
+Ok, so I guess you are reading this because you want to use my code. There are some
 functions that do stuff and that's:
 
     >>> from simple_functions import factorial
