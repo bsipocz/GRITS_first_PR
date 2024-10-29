@@ -12,5 +12,6 @@ def factorial(value):
         return value * factorial(value - 1)
 
 def subtraction(a, b):
+    """ add some documentation here"""
     return a - b
     
